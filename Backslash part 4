@@ -1,0 +1,14 @@
+print("Hello World")
+x=input("Enter Your f Number")
+
+
+if x=='Tawhid':
+    print("\tName: Md Tawhid \n"
+          "\tPhone: 01641438933")
+
+elif x=='Galib':
+    print("\tName: Md Galib \n"
+          "\tPhone: 01790967332")
+
+else:
+    print("\tSorry Not Find")
