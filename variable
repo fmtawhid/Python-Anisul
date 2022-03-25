@@ -1,0 +1,4 @@
+x=input("Enter Your Name ")
+
+print("My Name Is "+x)
+print("as for as a "+x)
